@@ -1,0 +1,9 @@
+GitHub導入
+
+RailsTutorialではBitbuketだったため、GitHubを導入。
+手順は下記記事に従った。特に問題は発生せず。
+https://employment.en-japan.com/engineerhub/entry/2017/01/31/110000
+
+環境
+VirtualBox
+ubuntu 18.04.3 LTS
